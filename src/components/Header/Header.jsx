@@ -6,10 +6,10 @@ import Navbar from "./Navbar/Navbar.jsx";
 function Header(){
 
     return(
-        <div>
-        <Logo />  
+       <header>
+        <Logo />
         <Navbar />
-        </div>
+       </header>
     );
 }
 
