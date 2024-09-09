@@ -1,9 +1,11 @@
+import Header from "./components/Header/Header"
+
 
 function App() {
 
   return (
     <>
-    <h1>React Concept</h1>
+    <Header />
     </>
   )
 }
